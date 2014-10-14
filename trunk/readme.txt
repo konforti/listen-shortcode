@@ -15,6 +15,7 @@ Listen Shortcode plugin for WordPress
 == Description ==
 
 This plugin allows the use of a special short code [listen] for embedding Inline Audio Player.
+This plugin is based on the [listen.js](https://github.com/konforti/listen) library, which create a custom inline audio player from your audio file.
 
 **Example:**
 `[listen src="audio.mp3"]Your Text[/listen]`
